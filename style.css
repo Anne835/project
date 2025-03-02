@@ -1,0 +1,100 @@
+*{
+    margin: 0;
+}
+body {
+    text-align: center; 
+}
+.header {
+    background-color: rgb(231, 242, 250);
+    position: relative;
+    padding-top: 50px;
+}
+.cloud1 {
+    position: absolute;
+    right: 200px;
+    top: 50px;
+}
+.cloud2 {
+    position: absolute;
+    left: 250px;
+}
+h1 {
+    font-family: "Sacramento", serif;
+    font-weight: 1000;
+    font-style: normal;
+    font-size: 60px;
+    color: #2699a6;
+    margin-top: 40px;
+    
+}
+ /* end of top */
+.yanivpic {
+    border-radius: 50%;
+    margin: 20px 0;
+    height: 150px;
+    width: 150px;
+}
+a:hover{
+background-color: bisque;
+}
+.heads {
+    color: rgb(76, 156, 221);
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight:450;
+    font-style:normal;
+}
+.skill {
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 50%;  
+    padding-bottom: 40px;
+}
+.pencil {
+    float: left;
+    width: 25%;
+    margin-right: 40px;   
+}
+
+.write{
+    text-align: left;   
+}
+ .class {
+    float: right;
+    margin-right:50px;
+    border-radius:50%;
+}
+.translate {
+    float: left; 
+    margin-right:40px;
+    border-radius:50%;
+} 
+.button {
+    display:inline-block;
+    background: #2699a6;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+.contact {
+    padding: 40px 20px;
+}
+.footer {
+    background-color: #2699a6;
+    padding: 50px;
+    height: 120px;
+}
+.ftext {
+    color: white;
+    padding-top: 20px;
+}
+.dottedline {
+    border-top: 5px dotted #999;
+    width: 50px;
+    margin: 40px auto;
+    text-align: center;
+}
+
+    
